@@ -1,0 +1,15 @@
+{
+  "name": "com.nemurigi.vrmv-timeline-player",
+  "displayName": "VRMV Timeline Player",
+  "version": "0.0.1",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": "3.5.1"
+  },
+  "author": {
+    "name": "nemurigi",
+    "email": "ne6rigi@gmail.com"
+  },
+  "unity": "2022.3",
+  "description": "VRMV\u4f5c\u6210\u7528\u306eTimeline Player"
+}
