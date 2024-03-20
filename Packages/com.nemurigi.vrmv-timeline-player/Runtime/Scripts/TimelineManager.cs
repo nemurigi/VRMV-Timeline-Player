@@ -15,7 +15,7 @@ namespace NmrgLibrary.TimelinePlayer
     }
     public class TimelineManager : AbstractTimelineManager
     {
-        private PlayableDirector _director;
+        [SerializeField] private PlayableDirector _director;
         private UdonSharpBehaviour _receiver;
 
         private TimelinePlayState _state;
