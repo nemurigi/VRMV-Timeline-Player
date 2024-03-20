@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: TimelineControlHandler
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 0c994b0a5e3e5d04c9fb7684a8a45816,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 1157733d2b098b1469d5b27d01430ab3,
     type: 2}
   udonAssembly: 
   assemblyError: 
@@ -62,7 +62,7 @@ MonoBehaviour:
       Data: 3|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: NmrgLibrary.TimelinePlayer.VRMVTimelinePlayer, Assembly-CSharp
+      Data: NmrgLibrary.TimelinePlayer.VRMVTimelinePlayer, com.nemurigi.vrmv-timeline-player
     - Name: 
       Entry: 8
       Data: 
