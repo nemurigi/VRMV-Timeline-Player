@@ -49,11 +49,7 @@ namespace NmrgLibrary.TimelinePlayer
             _director = mediaObj.GetComponent<PlayableDirector>();
             if (_director == null)
                 return;
-
-            if (_director.playOnAwake)
-            {
-                OnMediaStart();
-            }
+            
             _initialized = true;
         }
 
